@@ -1,1 +1,0 @@
-Coloca aqui tu foto con el nombre foto-perfil.jpg (JPG, PNG o WebP cambiando la ruta en sobre-mi.php).
